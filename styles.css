@@ -1,0 +1,18 @@
+body {
+  background-image: url("hearts-2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: red;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+h1 {
+  font-size: 4vw;
+}
